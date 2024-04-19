@@ -18,11 +18,11 @@ The project consists of the following components:
 
 1. **Collecting Images**: Run the `collect_images.py` script to capture images for training. Adjust the number of images per class and dataset size as needed.
 
-2. **Creating Dataset**: Run the `create_dataset.py` script to extract hand landmarks from the collected images and save them along with labels as a dataset (`data.pickle2`).
+2. **Creating Dataset**: Run the `create_dataset.py` script to extract hand landmarks from the collected images and save them along with labels as a dataset (`data.pickle`).
 
 3. **Training Classifier**: Execute the `train_classifier.py` script to train the Random Forest Classifier using the dataset generated in the previous step.
 
-4. **Running the Model**: Run the `run_model.py` script to start the real-time sign language gesture detection system.
+4. **Running the Model**: Run the `inference_classifier.py` script to start the real-time sign language gesture detection system.
 
 ## Requirements
 
