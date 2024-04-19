@@ -2,6 +2,9 @@
 
 This project aims to detect and recognize sign language gestures using computer vision and machine learning techniques. It provides a real-time system that captures hand gestures through a webcam, processes them, and predicts the corresponding sign language characters.
 
+## Demo Video
+https://github.com/En1gma02/Sign-Language-Gesture-Detector/assets/136985129/02323a1f-70fa-4c33-a837-f80fde8d4cb1
+
 ## Overview
 
 The project consists of the following components:
